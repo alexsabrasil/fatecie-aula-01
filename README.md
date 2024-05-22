@@ -10,6 +10,9 @@ Este projeto permite a consulta de informações de endereço a partir de um cep
 
 ![consulta_cep_fatecie](https://github.com/alexsabrasil/fatecie-aula-01/assets/113733583/82ee584b-26f1-41f8-9813-86ca7df06042)
 
+**Deploy:** [`(https://alexsabrasil.github.io/fatecie-aula-01/)`](https://alexsabrasil.github.io/fatecie-aula-01/)
+
+##
 
 **Antes da Correção**
 
