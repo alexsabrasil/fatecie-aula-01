@@ -1,8 +1,6 @@
-# Unifatecie -  Curso: Bach. Sistema de Informação 4º Período 
+## Unifatecie -  Curso: Bach. Sistema de Informação 4º Período 
 
-## Programação para Internet - Aula 01,02 e 03.
-
-## Explaining the project and providing a step-by-step guide:
+### Explaining the project and providing a step-by-step guide:
 
 **Consulta CEP - Brazilian Postal Code Lookup**
 
