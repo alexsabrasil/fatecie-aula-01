@@ -4,14 +4,12 @@
 
 Este projeto permite a consulta de informações de endereço a partir de um cep (Código postal) brasileiro. Ele utiliza HTML, CSS, JavaScript e API para buscar dados do ViaCEP ([https://viacep.com.br/](https://viacep.com.br/))
 
-## Imagem da página *Consulta CEP*
+## Imagem da página *Consulta CEP* 
 
-**Busca**
-![busca_cep](https://github.com/alexsabrasil/fatecie-aula-01/assets/113733583/b80e466b-faa4-45aa-acc4-e0c01b80dcdc)
+   **Busca**---------------------------------------------------------**Resultado**
 
-**Resultado**
+![consulta_cep_fatecie](https://github.com/alexsabrasil/fatecie-aula-01/assets/113733583/82ee584b-26f1-41f8-9813-86ca7df06042)
 
-![resultado_cep](https://github.com/alexsabrasil/fatecie-aula-01/assets/113733583/8286d5a6-cc14-4cda-a98d-dba2bd51885f)
 
 **Antes da Correção**
 
